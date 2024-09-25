@@ -5,4 +5,13 @@ In here, we speak with statistic and demonstrated that the correlation between o
 
 Here are some maps that show distinctive correlation:
 
-![la](Los_Angeles.png)
+![la](la.png)
+
+![sb](sb.png)
+
+
+
+
+We present and advocate the in a state-wide event. The presentation can be found [here](presentation/Oil and Gas wells in California.pptx).
+
+Later the year, governor Newsom annouce that to ban oil fracking and zone out area on oil drilling stie. Victory!
