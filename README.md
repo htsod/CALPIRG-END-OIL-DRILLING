@@ -24,14 +24,8 @@ This project aims to expose the correlation between oil drilling sites and regio
 The analysis is conducted on a county-by-county basis, with the full data and results available in this [shared_folder](https://drive.google.com/drive/folders/1hWEWJWHoTThoUTxZZ9bQ0v3mJsrEAPZN?usp=sharing)
 
 ## Visualizing the Impact
-Below are sample maps showing the correlation between oil drilling sites and population demographics in California:
+Below is a sample map showing the correlation between oil drilling sites in Santa Barbara County:
 
-- Los Angeles County
-  
-![la](la.png)
-
-
-- Santa Barbara County
 ![sb](sb.png)
 
 ## Advocacy and Results
@@ -40,3 +34,5 @@ We presented our findings at a statewide event, advocating for policy changes to
 
 
 As a result of our advocacy efforts, Governor Newsom announced a statewide ban on oil fracking and introduced zoning restrictions for new drilling sites. Victory!
+
+![Newsom](newsom_bans_fracking.png)
