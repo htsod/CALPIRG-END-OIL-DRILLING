@@ -19,7 +19,7 @@ This project aims to expose the correlation between oil drilling sites and regio
 
 - Oil Drilling site data: [U.S.energy_adminstration](https://www.eia.gov/petroleum/drilling/)
 
-- [united_census_bureau](https://www.census.gov/data.html)
+- Demographic data: [united_census_bureau](https://www.census.gov/data.html)
 
 The analysis is conducted on a county-by-county basis, with the full data and results available in this [shared_folder](https://drive.google.com/drive/folders/1hWEWJWHoTThoUTxZZ9bQ0v3mJsrEAPZN?usp=sharing)
 
