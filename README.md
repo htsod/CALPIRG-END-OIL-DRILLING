@@ -1,17 +1,42 @@
-# CALPIRG END OIL DRILLING
-Oil drilling sites in California has a uneven distribution across the state. Notably, the oil drilling sites are more dense in area where minority group and low-income family lives. Oil drilling impacts people live in numerous way. It include but not limited to the air and underground water pollution, increase in earthquake susceptibility and high noise level. While not sharing the benefit of the energy production, the poor and minorities are more vulnerable to the side effects and creating a proverty and health care trap that last generations.
+# CALPIRG: Ending Oil Drilling in Vulnerable Communities
+Oil drilling in California disproportionately affects minority and low-income communities. Drilling sites are concentrated in these areas, leading to numerous harmful consequences such as:
 
-In here, we speak with statistic and demonstrated that the correlation between oil dril sites and the regional demographic. The .gis data is from [U.S.energy_adminstration](https://www.eia.gov/petroleum/drilling/). The data for the demographic is from government census [united_census_bureau](https://www.census.gov/data.html). We analysis all distributions correlation by counties and it can be found in the following drive [shared_folder](https://drive.google.com/drive/folders/1hWEWJWHoTThoUTxZZ9bQ0v3mJsrEAPZN?usp=sharing).
+- __Air and water pollution__: Contaminants from drilling operations pollute local environments.
 
-Here are some maps that show distinctive correlation:
+- __Increased earthquake risk__: Fracking and drilling can destabilize fault lines.
+  
+- __Noise pollution__: Constant drilling creates high noise levels, disrupting communities.
 
+
+While these communities bear the brunt of these negative impacts, they see little benefit from the energy produced. This creates a cycle of poverty and health issues that affects generations.
+
+## Project Overview
+
+This project aims to expose the correlation between oil drilling sites and regional demographics. We provide statistical analyses that reveal how oil drilling disproportionately impacts vulnerable populations.
+
+
+## Data Sources
+
+- Oil Drilling site data: [U.S.energy_adminstration](https://www.eia.gov/petroleum/drilling/)
+
+- [united_census_bureau](https://www.census.gov/data.html)
+
+The analysis is conducted on a county-by-county basis, with the full data and results available in this [shared_folder](https://drive.google.com/drive/folders/1hWEWJWHoTThoUTxZZ9bQ0v3mJsrEAPZN?usp=sharing)
+
+## Visualizing the Impact
+Below are sample maps showing the correlation between oil drilling sites and population demographics in California:
+
+- Los Angeles County
+  
 ![la](la.png)
 
+
+- Santa Barbara County
 ![sb](sb.png)
 
+## Advocacy and Results
+
+We presented our findings at a statewide event, advocating for policy changes to protect vulnerable communities from the harmful effects of oil drilling. You can view the presentation slides [here](presentation/presentation_slides.pptx).
 
 
-
-We present and advocate the in a state-wide event. The presentation can be found [here](presentation/Oil and Gas wells in California.pptx).
-
-Later the year, governor Newsom annouce that to ban oil fracking and zone out area on oil drilling stie. Victory!
+As a result of our advocacy efforts, Governor Newsom announced a statewide ban on oil fracking and introduced zoning restrictions for new drilling sites. Victory!
